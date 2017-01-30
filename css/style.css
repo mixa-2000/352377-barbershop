@@ -3,15 +3,15 @@ body {
   line-height: 24px;
   color: #000000;
   font-weight: bold;
-  font-family: PT Snas Narrow, Arial, Helvetica;
+  font-family: "PT Snas Narrow", Arial, Helvetica;
 }
 
 h1 {
-  font-size: 14px;
-  line-height: 24px;
+  font-size: 30px;
+  line-height: 42px;
   color: #000000;
   font-weight: bold;
-  font-family: PT Snas Narrow, Arial, Helvetica;
+  font-family: "PT Sans Narrow", Arial, Helvetica;
 }
 
 h2 {
@@ -19,5 +19,5 @@ h2 {
   line-height: 42px;
   color: #000000;
   font-weight: bold;
-  font-family: PT Snas Narrow, Arial, Helvetica;
+  font-family: "PT Sans Narrow", Arial, Helvetica;
 }
